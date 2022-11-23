@@ -48,8 +48,8 @@
 		}
 
 		.logo {
-			width: 5.5rem;
-			height: 5.5rem;
+			width: 20rem;
+			height: 20rem;
 			line-height: 5.5rem;
 			border: solid _size(border-width) _palette(border);
 			border-radius: 100%;
@@ -112,7 +112,7 @@
 					a {
 						display: block;
 						min-width: 7.5rem;
-						height: 5.75rem;//was 2.75
+						height: 2.75rem;
 						line-height: 2.75rem;
 						padding: 0 1.25rem 0 (1.25rem + _font(letter-spacing));
 						text-transform: uppercase;
